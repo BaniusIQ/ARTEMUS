@@ -2,9 +2,8 @@
 # Guía para Desplegar un Proyecto en XAMPP y Configurar una Base de Datos en MySQL
 # → Descargar XAMPP: https://www.apachefriends.org/es/index.html ←
 ________________________________________
-<details>
-<summary>Paso 1: Preparar el Entorno de Trabajo en XAMPP:</summary>
 
+Paso 1: Preparar el Entorno de Trabajo en XAMPP:
 
 1.1 Localizar la carpeta htdocs
 •	Una vez descargado e instalado XAMPP, busca la carpeta de instalación, que normalmente se encuentra en C:\xampp.
@@ -14,10 +13,9 @@ ________________________________________
 •	Copia la carpeta de tu proyecto descargada de GitHub y pégala en htdocs.
 •	Ejemplo: Si tu proyecto se llama "MiProyecto", la ruta completa será C:\xampp\htdocs\MiProyecto.
 
-</details>
 ________________________________________
-<details>
-<summary>Paso 2: Iniciar XAMPP y Acceder al Proyecto:</summary>
+
+Paso 2: Iniciar XAMPP y Acceder al Proyecto:
 
 2.1 Iniciar los servicios de XAMPP
 •	Abre la aplicación de XAMPP.
@@ -31,11 +29,9 @@ Copiar código
 http://localhost/MiProyecto
 Esto te permitirá ver tu proyecto en funcionamiento.
 
-</details>
 ________________________________________
-<details>
-<summary>Paso 3: Configurar la Base de Datos en MySQL:</summary>
 
+Paso 3: Configurar la Base de Datos en MySQL:
 
 3.1 Acceder a phpMyAdmin
 •	Con MySQL activo, haz clic en el botón Admin junto a MySQL en XAMPP. Esto abrirá phpMyAdmin en tu navegador.
@@ -50,7 +46,6 @@ ________________________________________
 •	Selecciona el archivo .sql de tu base de datos en la opción Archivo a importar.
 •	Desplázate hacia abajo y haz clic en Importar para cargar el archivo.
 
-</details>
 ________________________________________
 <details>
 <summary>EXTRA INFO</summary>
