@@ -47,5 +47,9 @@ Paso 3: Configurar la Base de Datos en MySQL:
 
 
 ________________________________________
-### Done by *AVK*
-- - -
+<details>
+<summary>EXTRA INFO</summary>
+
+### Done by AVK.
+
+</details>
