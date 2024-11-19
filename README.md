@@ -1,6 +1,5 @@
-________________________________________
-Guía para Desplegar un Proyecto en XAMPP y Configurar una Base de Datos en MySQL
-→ Descargar XAMPP ←
+#Guía para Desplegar un Proyecto en XAMPP y Configurar una Base de Datos en MySQL
+@→ Descargar XAMPP: https://www.apachefriends.org/es/index.html ←
 ________________________________________
 Paso 1: Preparar el Entorno de Trabajo en XAMPP:
 
