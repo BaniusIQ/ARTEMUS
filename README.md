@@ -3,7 +3,7 @@
 # → Descargar XAMPP: https://www.apachefriends.org/es/index.html ←
 ________________________________________
 <details>
-<summary> ## Paso 1: Preparar el Entorno de Trabajo en XAMPP:</summary>
+<summary>Paso 1: Preparar el Entorno de Trabajo en XAMPP:</summary>
 
 
 1.1 Localizar la carpeta htdocs
@@ -17,7 +17,7 @@ ________________________________________
 </details>
 ________________________________________
 <details>
-<summary> ## Paso 2: Iniciar XAMPP y Acceder al Proyecto:</summary>
+<summary>Paso 2: Iniciar XAMPP y Acceder al Proyecto:</summary>
 
 2.1 Iniciar los servicios de XAMPP
 •	Abre la aplicación de XAMPP.
@@ -34,7 +34,7 @@ Esto te permitirá ver tu proyecto en funcionamiento.
 </details>
 ________________________________________
 <details>
-<summary> ## Paso 3: Configurar la Base de Datos en MySQL:</summary>
+<summary>Paso 3: Configurar la Base de Datos en MySQL:</summary>
 
 
 3.1 Acceder a phpMyAdmin
