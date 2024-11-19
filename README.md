@@ -40,7 +40,6 @@ Paso 3: Configurar la Base de Datos en MySQL
     
 3.2 Crear la base de datos
   •	En phpMyAdmin:
-  
     o	Haz clic en Nueva en la barra lateral izquierda.
     o	Introduce el nombre de la base de datos (por ejemplo, artemus) y haz clic en Crear.
     o	Nota: No es necesario modificar el segundo campo.
