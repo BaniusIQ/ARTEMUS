@@ -37,3 +37,5 @@ Para importar el archivo SQL:
 Una vez creada la base de datos, haz clic en la pestaña Importar.
 Selecciona el archivo .sql desde tu explorador de archivos en la opción Archivo a importar.
 Haz clic en Importar al final de la página.
+
+Done by AVK
