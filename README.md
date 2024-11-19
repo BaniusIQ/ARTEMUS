@@ -1,4 +1,3 @@
-- - -
 # Guía para Desplegar un Proyecto en XAMPP y Configurar una Base de Datos en MySQL
 # → Descargar XAMPP: https://www.apachefriends.org/es/index.html ←
 ________________________________________
@@ -49,4 +48,4 @@ ________________________________________
 
 ### Done by AVK.
 
-</details>vale modifica esto apra que cada paso tenga sub-elementos porque sino hay mucho texto junto
+</details>
