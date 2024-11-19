@@ -46,6 +46,6 @@ ________________________________________
 <details>
 <summary>EXTRA INFO</summary>
 
-### Done by # ＡＶＫ
+### Done by ＡＶＫ
 
 </details>
