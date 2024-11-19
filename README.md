@@ -46,6 +46,6 @@ ________________________________________
 <details>
 <summary>EXTRA INFO</summary>
 
-### Done by AVK.
+### Done by AVK corp
 
 </details>
