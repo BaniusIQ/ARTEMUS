@@ -6,12 +6,12 @@ ________________________________________
 Paso 1: Preparar el Entorno de Trabajo en XAMPP:
 
   1.1 Localizar la carpeta htdocs
-  •  Una vez descargado e instalado XAMPP, busca la carpeta de instalación, que normalmente se encuentra en C:\xampp.
-  •	Dentro de esta carpeta, abre la subcarpeta htdocs.
+  - Una vez descargado e instalado XAMPP, busca la carpeta de instalación, que normalmente se encuentra en C:\xampp.
+  - 	Dentro de esta carpeta, abre la subcarpeta htdocs.
 
   1.2 Pegar el proyecto en htdocs
-  •	Copia la carpeta de tu proyecto descargada de GitHub y pégala en htdocs.
-  •	Ejemplo: Si tu proyecto se llama "MiProyecto", la ruta completa será C:\xampp\htdocs\MiProyecto.
+  - Copia la carpeta de tu proyecto descargada de GitHub y pégala en htdocs.
+  -	Ejemplo: Si tu proyecto se llama "MiProyecto", la ruta completa será C:\xampp\htdocs\MiProyecto.
 
 ________________________________________
 
