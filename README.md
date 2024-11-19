@@ -24,8 +24,7 @@ Paso 2: Iniciar XAMPP y Acceder al Proyecto:
 
   2.2 Acceder al proyecto en tu navegador
   -	Abre tu navegador y escribe:
-      - http://localhost/MiProyecto
-  - Esto te permitirá ver tu proyecto en funcionamiento.
+      - http://localhost/MiProyecto ( Esto te permitirá ver tu proyecto en funcionamiento )
 
 ________________________________________
 
